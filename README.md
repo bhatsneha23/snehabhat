@@ -1,10 +1,10 @@
 # snehabhat
 # 💫 About Me:
-Hi there! I'm **[Your Name]**, an AI Engineer and Data Scientist passionate about building intelligent systems that solve real-world problems.  
+Hi there! I'm Sneha Bhat, an AI Engineer and Data Scientist passionate about building intelligent systems that solve real-world problems.  
 🔍 I love working with Machine Learning, Deep Learning, and Data Science projects.  
 💻 Currently exploring: GenAI, MLOps, and real-time AI applications.
 
-- 🎓 B.Tech in Computer Science
+- 🎓 B.Tech in Artificial intelligence and Data Science
 - 🌱 Currently learning: LLM fine-tuning, AutoML, LangChain
 - 🛠️ Building: Smart AI Assistants & Exploratory Data Apps
 - 📫 Reach me: [your.email@example.com](mailto:bhatsneha83@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sneha-bhat-2b3557291/)
