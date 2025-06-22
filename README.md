@@ -7,7 +7,7 @@ Hi there! I'm Sneha Bhat, an AI Engineer and Data Scientist passionate about bui
 - 🎓 B.Tech in Artificial intelligence and Data Science
 - 🌱 Currently learning: LLM fine-tuning, AutoML, LangChain
 - 🛠️ Building: Smart AI Assistants & Exploratory Data Apps
-- 📫 Reach me: [your.email@example.com](mailto:bhatsneha83@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sneha-bhat-2b3557291/)
+- 📫 Reach me: [bhatsneha83@gmail.com](mailto:bhatsneha83@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sneha-bhat-2b3557291/)
 ---
 
 ## 🧠 Skills & Tools
@@ -30,13 +30,13 @@ Hi there! I'm Sneha Bhat, an AI Engineer and Data Scientist passionate about bui
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide=prs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
 
----
+----->
 
 ## 🚀 Featured Projects
 
